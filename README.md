@@ -24,6 +24,8 @@ I'm always excited to learn new technologies and stay updated with the latest tr
 Feel free to reach out if you're interested in collaborating on any fun projects or discussing anything related to frontend development!
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=samfrexz619&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
 <!--
 **samfrexz619/samfrexz619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
