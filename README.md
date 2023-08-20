@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel Damilola O. 👋
 
-I'm a passionate frontend developer with a knack for crafting user-centric web experiences. My journey in the world of web development started with my curiosity to build beautiful and functional interfaces that impact users positively.
+I'm a passionate frontend developer with over 2years of experience in crafting user-centric web experiences. My journey in the world of web development started with my curiosity to build beautiful and functional interfaces that impact users positively.
 
 ## My Expertise:
 - I specialize in creating interactive and responsive user interfaces using modern web technologies like HTML, CSS, SCSS and JavaScript/TypeScript.
@@ -9,7 +9,12 @@ I'm a passionate frontend developer with a knack for crafting user-centric web e
 
 ## 🌱 What I'm Learning
 
-I'm always excited to learn new technologies and stay updated with the latest trends in frontend development. Currently, I'm diving deep into ReactNative to expand my skill set.
+I'm always excited to learn new technologies and stay updated with the latest trends in frontend development. Currently, I'm diving deep into world of software engineering at ALX_Africa to expand my skill set.
+
+## 💼 Projects
+- Patricia technologies: https://business.mypatricia.co/
+- Eazipay clone: https://eazipay-j1g3n9elq-samfrexz619.vercel.app/ (in progress)
+- PunhubCentral
 
 ## 📫 Let's Connect
 
