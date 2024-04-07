@@ -1,10 +1,10 @@
 ### Hi there, I'm Samuel Damilola O. 👋
 
-I'm a passionate frontend developer with over 2years of experience in crafting user-centric web experiences. My journey in the world of web development started with my curiosity to build beautiful and functional interfaces that impact users positively.
+I'm a passionate frontend developer with over 3years of experience in crafting user-centric web experiences. My journey in the world of web development started with my curiosity to build beautiful and functional interfaces that impact users positively.
 
 ## My Expertise:
 - I specialize in creating interactive and responsive user interfaces using modern web technologies like HTML, CSS, SCSS and JavaScript/TypeScript.
-- Web frameworks: Proficient in the use of Reactjs, Vuejs, Nextjs, Tailwindcss.
+- Web frameworks: Proficient in the use of Reactjs, Vuejs, Nextjs, Tailwindcss, Chakra UI.
 - Version Control: Proficient with Git for version control and collaborative development.
 
 ## 🌱 What I'm Learning
