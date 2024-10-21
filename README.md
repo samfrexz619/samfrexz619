@@ -13,8 +13,7 @@ I'm always excited to learn new technologies and stay updated with the latest tr
 
 ## 💼 Projects
 - Patricia technologies: https://business.mypatricia.co/
-- Eazipay clone: https://eazipay-j1g3n9elq-samfrexz619.vercel.app/ (in progress)
-- PunhubCentral
+- PunhubCentral: https://www.punhubcentral.com/
 
 ## 📫 Let's Connect
 
