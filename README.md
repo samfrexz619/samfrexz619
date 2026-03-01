@@ -13,7 +13,7 @@ I'm always excited to learn new technologies and stay updated with the latest tr
 
 ## 💼 Projects
 - Patricia technologies: https://business.mypatricia.co/
-- PunhubCentral: https://www.punhubcentral.com/
+- Eazipay technologies: https://www.myeazipay.com/
 
 ## 📫 Let's Connect
 
