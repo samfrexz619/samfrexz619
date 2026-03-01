@@ -1,6 +1,9 @@
 ### Hi there, I'm Samuel Damilola O. 👋
 
-I'm a passionate frontend developer with over 3years of experience in crafting user-centric web experiences. My journey in the world of web development started with my curiosity to build beautiful and functional interfaces that impact users positively.
+I am an innovative Frontend Engineer with 4+ years of experience designing and deploying high-performance
+web applications using Vue.js, React.js, and Next.js. Proven track record of improving app performance
+by up to 40% and reducing build times by 25% through scalable frontend architecture. Passionate about
+creating intuitive, accessible, and user-centric interfaces.
 
 ## My Expertise:
 - I specialize in creating interactive and responsive user interfaces using modern web technologies like HTML, CSS, SCSS and JavaScript/TypeScript.
